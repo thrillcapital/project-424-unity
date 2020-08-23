@@ -801,6 +801,11 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4116892636763895034, guid: 89f86da0002dfa549bb80908bb13bad3,
+        type: 3}
+      propertyPath: configuredWheelRange
+      value: 400
+      objectReference: {fileID: 0}
     - target: {fileID: 4729384033056834893, guid: 89f86da0002dfa549bb80908bb13bad3,
         type: 3}
       propertyPath: m_LocalPosition.z
